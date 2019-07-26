@@ -79,7 +79,8 @@ strong {
   font-style: italic;
 }
 
-ul {	text-align: center;
+ul {	
+	text-align: center;
 	list-style-type: none;
 
 	margin: 0;
@@ -115,3 +116,4 @@ h2 + p {
 
   font-style: italic;
 }
+li{ text-align: center; }
