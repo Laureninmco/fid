@@ -79,7 +79,7 @@ strong {
   font-style: italic;
 }
 
-ul {
+ul {	text-align: center;
 	list-style-type: none;
 
 	margin: 0;
